@@ -11,7 +11,9 @@ This repository contains the PyTorch implementation of a lightweight end-to-end 
 `Image` → `YOLOv8 (2D Detection) + Depth-Anything-V2 (Relative Depth) + SegFormer (Semantic Mask)` → `Anchor-based MLP (Scale Regression)` → `BEV Projection`
 
 ##Qualitative Results
-*(在这里插入你的最终 BEV 鸟瞰图)*
+<img width="2484" height="975" alt="bev_000013" src="https://github.com/user-attachments/assets/ff00d308-b541-4163-8132-9d7658bbd09c" />
+<img width="2448" height="970" alt="bev_000014" src="https://github.com/user-attachments/assets/6b2b9491-5bb3-4891-ad5c-fe16f0907f4b" />
+
 <!-- 如果你在 GitHub 网页上，可以直接把本地生成的图拖拽到这两行之间，它会自动生成链接 -->
 
 ## ⚙How to Run

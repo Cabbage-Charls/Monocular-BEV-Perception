@@ -1,0 +1,33 @@
+# ===== 数据集目录（绝对不能传） =====
+training/
+testing/
+data/
+datasets/
+bev_output_v2/
+
+# ===== 缓存与权重（体积巨大） =====
+cache/
+ckpt/
+*.pkl
+*.pth
+*.pt
+*.bin
+*.onnx
+
+# ===== 虚拟环境 =====
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# ===== IDE 配置 =====
+.idea/
+.vscode/
+*.iml
+
+# ===== 可视化输出 =====
+figures/
+runs/
+*.mp4
+*.png
+*.jpg
